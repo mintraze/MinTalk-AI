@@ -1,5 +1,3 @@
-div align="center">
-
 <img src="https://static.rustore.ru/imgproxy/QQOLO2WR5F1a1XziV-GISY9fdTwiref1jXU_nACAUA8/preset:web_app_icon_160/plain/https://static.rustore.ru/2026/7/14/12/apk/2063732754/content/ICON/b9014a29-4432-4ba1-9156-9c9d86d04694.png@webp" width="96" alt="MINTalk"/>
 
 <h1>MINTalk</h1>
