@@ -44,9 +44,9 @@
 ## Скриншоты
 
 <p align="center">
-  <img src="[docs/screen-1.png](https://static.rustore.ru/imgproxy/No0OZNpXsACSoYm1PFQz1uVZlVQZRBGauD2n0WfSrBk/preset:web_scr_prt_384/plain/https://static.rustore.ru/2026/8/31/5b/apk/2063732754/content/SCREENSHOT/25dba9f3-6cbd-4c3a-989e-d7a0c65dba4a.png@webp)" width="220" style="border-radius: 12px;"/>
-  <img src="[docs/screen-2.png](https://static.rustore.ru/imgproxy/78tvyz2lNJNT0_l2uGygAKx1VSuzmdwNJ24gCN5FA78/preset:web_scr_prt_384/plain/https://static.rustore.ru/2026/8/31/be/apk/2063732754/content/SCREENSHOT/f99aac0e-8bb6-41ff-9363-bccb2a21a77f.png@webp)" width="220" style="border-radius: 12px;"/>
-  <img src="[docs/screen-3.png](https://static.rustore.ru/imgproxy/M9N81nfdwqjdSa0HcQG2QIPNRrJ0frWGRSbxiJMzuZ0/preset:web_scr_prt_384/plain/https://static.rustore.ru/2026/8/31/b7/apk/2063732754/content/SCREENSHOT/0a981bf6-c671-45c0-9b55-b2ff6ab605a0.png@webp)" width="220" style="border-radius: 12px;"/>
+  <img src="https://static.rustore.ru/imgproxy/No0OZNpXsACSoYm1PFQz1uVZlVQZRBGauD2n0WfSrBk/preset:web_scr_prt_384/plain/https://static.rustore.ru/2026/8/31/5b/apk/2063732754/content/SCREENSHOT/25dba9f3-6cbd-4c3a-989e-d7a0c65dba4a.png@webp" width="220"/>
+  <img src="https://static.rustore.ru/imgproxy/78tvyz2lNJNT0_l2uGygAKx1VSuzmdwNJ24gCN5FA78/preset:web_scr_prt_384/plain/https://static.rustore.ru/2026/8/31/be/apk/2063732754/content/SCREENSHOT/f99aac0e-8bb6-41ff-9363-bccb2a21a77f.png@webp" width="220"/>
+  <img src="https://static.rustore.ru/imgproxy/M9N81nfdwqjdSa0HcQG2QIPNRrJ0frWGRSbxiJMzuZ0/preset:web_scr_prt_384/plain/https://static.rustore.ru/2026/8/31/b7/apk/2063732754/content/SCREENSHOT/0a981bf6-c671-45c0-9b55-b2ff6ab605a0.png@webp" width="220"/>
 </p>
 
 ---
